@@ -1,1 +1,1 @@
-# Deep-Learning-Assignments
+Solution to Deep Learning Assignments
